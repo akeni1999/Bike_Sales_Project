@@ -16,6 +16,11 @@ I have developed the Dashboard in Excel where I have performed analysis on the f
 - **Commuting Distance Visualization:** Using dynamic charts, I have visualized the commuting distance of bike riders. This information can be filtered by region, providing an in-depth understanding of the geographic distribution and preferences of bike commuters. These insights can inform decisions related to product placement, marketing campaigns, and infrastructure development.
 - **Bike Purchases by Age:** Another valuable aspect of my dashboard is the inclusion of graphs that present the count of bike purchases according to age groups. By leveraging slicers for marital status and education, users can explore the demographics of bike buyers within specific segments, enabling businesses to tailor their offerings to specific target markets.
 
+Below is the Bike Sales Dashboard that I have designed:
+
+![image](https://github.com/akeni1999/Bike_Sales_Project/assets/66996868/829584c3-dcc5-43de-ba27-94a3dbb84398)
+
+
 ### Result
 
 - In the Pacific region, the average income for male bike buyers is higher than that of female bike buyers.
