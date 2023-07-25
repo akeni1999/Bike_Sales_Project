@@ -2,11 +2,11 @@
 
 ### Situation
 
-The goal of the project is to uncover trends and patterns and make data-driven decisions to make understand the target market for the bike business.
+The goal of the project was to uncover trends and patterns and make data-driven decisions to make understand the target market for the bike business.
 
 ### Task
 
-My aim was to build the dashboard using Excel and perform data preprocessing like removing duplicates, replacing null values, and transforming the data for analysis. The goal was to display key metrics like average income, gender, age, and customer commute to understand how the business is performing overall and give analysis based on marital status, region, and education.
+I aimed to build the dashboard using Excel and perform data preprocessing like removing duplicates, replacing null values, and transforming the data for analysis. The goal was to display key metrics like average income, gender, age, and customer commute to understand how the business is performing overall and give analysis based on marital status, region, and education.
 
 ### Action
 
